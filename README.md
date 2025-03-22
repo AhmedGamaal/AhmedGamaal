@@ -5,8 +5,8 @@
 **Member at CIS Team & CAT Reloaded**  
 
 ------
-
-##  حديث | Hadith  
+## Hadith | حديث 
+<p align="center">
 
 **قال رسول الله ﷺ:**  
 _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُتقِنَهُ."_  
@@ -14,8 +14,7 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 
 **The Prophet Muhammad (ﷺ) said:**  
 *"Allah loves when any of you performs a task that he does it with excellence."*  
-
-
+</p>
 
 
 ---
