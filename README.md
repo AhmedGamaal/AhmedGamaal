@@ -21,7 +21,7 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 ---
 
 
-## 🚀 Tech Stack  
+##  Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -42,7 +42,7 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 
 ---
 
-## 📅 Activity  
+##  Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGamaal&theme=github-dark&area=true" alt="GitHub Activity Graph" />
 </p>
@@ -51,15 +51,15 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 
 ---
 
-## 🏆 Achievements  
-✔ Built scalable .NET applications  
-✔ Participated in leading tech communities (CIS Team & CAT Reloaded)  
-✔ Contributed to real-world projects  
-✔ Competed in the Hult Prize  
+##  Achievements  
+ Built scalable .NET applications  
+ Participated in leading tech communities (CIS Team & CAT Reloaded)  
+ Contributed to real-world projects  
+ Competed in the Hult Prize  
 
 ---
 
-## 💡 Soft Skills  
+##  Soft Skills  
 - Problem Solving  
 - Presentation & Public Speaking  
 - Teamwork & Collaboration  
@@ -70,7 +70,7 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 
 ---
 
-## 📬 Contacts  
+##  Contacts  
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedgamal111/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
