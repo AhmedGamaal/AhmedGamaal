@@ -16,24 +16,33 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 *"Allah loves when any of you performs a task that he does it with excellence."*  
 </p>
 
+---
+
+## Skills
+<h2 align="center">Tech Stack</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="mssql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
 
 ---
 
-
-##  Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>  
-
----
-
- 
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGamaal&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
@@ -46,15 +55,13 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGamaal&theme=github-dark&area=true" alt="GitHub Activity Graph" />
 </p>
 
-
-
 ---
 
 ##  Achievements  
- Built scalable .NET applications  
- Participated in leading tech communities (CIS Team & CAT Reloaded)  
- Contributed to real-world projects  
- Competed in the Hult Prize  
+- Built scalable .NET applications  
+- Participated in leading tech communities (CIS Team & CAT Reloaded)  
+- Contributed to real-world projects  
+- Competed in the Hult Prize  
 
 ---
 
@@ -82,5 +89,3 @@ _"إن اللهَ يحبُّ إذا عمِلَ أحدُكم عملًا أن يُ
 ---
 
 **_"Success is not final, failure is not fatal: it is the courage to continue that counts."_**  
-
-  
